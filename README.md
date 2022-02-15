@@ -1,4 +1,7 @@
-### Instructions to use
+### Instructions to use 
+
+Steps to follow:
+
 - Clone the repo
 
     ```git clone https://github.com/thechetantalwar/java-demo-app```

@@ -2,6 +2,8 @@
 
 Steps to follow:
 
+Read the below instructions
+
 - Clone the repo
 
     ```git clone https://github.com/thechetantalwar/java-demo-app```
